@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-14 17:26:01
- * @LastEditTime: 2021-04-14 17:28:33
+ * @LastEditTime: 2021-04-14 17:32:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedd:\360极速浏览器下载\duyanming-master\duyanming-master\README.md
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duyanming&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanming&layout=compact" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=yushuo1990&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushuo1990&layout=compact" /> 
 </p>
 
 - 😄 你好~，我是 yushuo，工作在无锡，一个使用 **.NET**、**JAVA**搬砖的苦逼码农。
