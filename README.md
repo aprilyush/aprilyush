@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-14 17:26:01
- * @LastEditTime: 2021-04-14 17:32:32
+ * @LastEditTime: 2021-04-20 09:06:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedd:\360极速浏览器下载\duyanming-master\duyanming-master\README.md
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 </p>
 
 - 😄 你好~，我是 yushuo，工作在无锡，一个使用 **.NET**、**JAVA**搬砖的苦逼码农。
-- ♥️ 代码如人，见字如面，开源不易，感谢Star 
+- ♥️ 现实与理想的巨大差距皆源至于自身能力的不足，开源不易，感谢Star 。
