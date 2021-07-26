@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-14 17:26:01
- * @LastEditTime: 2021-04-20 09:15:27
+ * @LastEditTime: 2021-07-26 14:35:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedd:\360极速浏览器下载\duyanming-master\duyanming-master\README.md
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yushuo1990&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushuo1990&layout=compact" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=aprilyush&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilyush&layout=compact" /> 
 </p>
 
 - 😄 你好~，我是 yushuo，工作在无锡，一个使用 **.NET**、**JAVA**搬砖的苦逼码农。
-- ♥️ 现实与理想的巨大差距皆源自于自身能力的不足，开源不易，感谢Star 。
+-  ♥️  开源不易，感谢Star 。
